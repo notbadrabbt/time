@@ -1,6 +1,6 @@
-# Keep-Awake PowerShell Script
+# Time - A Powershell Script for Keeping Your Computer Awake
 
-A PowerShell script that runs for a specified duration (default is 30 minutes), continuously displaying a live countdown while keeping your computer awake by sending periodic Scroll Lock keystrokes.
+A PowerShell script that runs for a specified duration (default is 30 minutes), displaying a live countdown & keeping your computer awake by periodicly sending 2 Scroll Lock keystrokes.
 
 ## Description
 
