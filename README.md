@@ -8,8 +8,7 @@ This script is designed to prevent your computer from going to sleep during crit
 
 - **Running for a user-defined duration:** Defaults to 30 minutes unless a different time is specified.
 - **Displaying a live countdown timer:** Shows the remaining time in hours, minutes, and seconds.
-- **Simulating activity:** Sends the Scroll Lock keystroke at random intervals (between 5 and 60 seconds) to prevent the system from entering sleep mode.
-- **Handling interruptions gracefully:** If you press Ctrl+C or otherwise interrupt the script, it resets the console state before exiting.
+- **Simulating activity:** Sends the Scroll Lock keystroke twice at random intervals (between 5 and 60 seconds) to prevent the system from entering sleep mode.
 
 ## Usage
 
