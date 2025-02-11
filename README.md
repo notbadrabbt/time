@@ -14,9 +14,7 @@ This script is designed to prevent your computer from going to sleep during crit
 
 1. Open PowerShell.
 2. Run the script with an optional time parameter (`-t`), which sets the duration in minutes:
-   ```powershell
-   .\KeepAwake.ps1 -t 45
-   ```
+   `.\KeepAwake.ps1 -t 45`
 
 ## License
 This project is released under the Unlicense.
